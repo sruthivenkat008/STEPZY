@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stepzyCatalog>
+  <metadata>
+    <version>2026.1</version>
+    <generatedAt>2026-09-22</generatedAt>
+    <theme>Purple Velocity Innovation Series</theme>
+  </metadata>
+  <featuredShoes>
+    <shoe id="1" category="men" featured="true">
+      <name>Stepzy Pulse Runner</name>
+      <division>Men • Running &amp; Training</division>
+      <price currency="USD">129.99</price>
+      <originalPrice currency="USD">159.99</originalPrice>
+      <rating>4.9</rating>
+      <reviewCount>1420</reviewCount>
+      <energyReturn>44%</energyReturn>
+      <carbonPlate>Adaptive Composite</carbonPlate>
+      <badge type="popular">POPULAR</badge>
+      <image>https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&amp;fit=crop&amp;w=600&amp;q=80</image>
+      <sizes>US 8, US 9, US 10, US 11</sizes>
+      <description>Supercritical micro-cell nitrogen foam delivering explosive push-off and ultra-light durability.</description>
+    </shoe>
+    <shoe id="2" category="women" featured="true">
+      <name>Stepzy Horizon Lilac</name>
+      <division>Women • Sprint &amp; Studio</division>
+      <price currency="USD">139.99</price>
+      <originalPrice currency="USD">160.00</originalPrice>
+      <rating>4.8</rating>
+      <reviewCount>840</reviewCount>
+      <energyReturn>42%</energyReturn>
+      <carbonPlate>Torsion Stabilization</carbonPlate>
+      <badge type="new">NEW DROP</badge>
+      <image>https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?auto=format&amp;fit=crop&amp;w=600&amp;q=80</image>
+      <sizes>US 6, US 7, US 8, US 9</sizes>
+      <description>Ergonomic anatomical arch wrap in pastel purple chroma weave with zero-fatigue sole cushion.</description>
+    </shoe>
+    <shoe id="3" category="sports" featured="true">
+      <name>Stepzy Apex Carbon</name>
+      <division>Sports • Carbon Speed</division>
+      <price currency="USD">179.99</price>
+      <originalPrice currency="USD">210.00</originalPrice>
+      <rating>5.0</rating>
+      <reviewCount>2350</reviewCount>
+      <energyReturn>46%</energyReturn>
+      <carbonPlate>Full Carbon Fiber Spoon Plate</carbonPlate>
+      <badge type="pro">PRO MARATHON</badge>
+      <image>https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?auto=format&amp;fit=crop&amp;w=600&amp;q=80</image>
+      <sizes>US 8.5, US 9.5, US 10.5, US 11.5</sizes>
+      <description>World Athletics approved racing shoe with rigid carbon geometry optimized for marathon sub-2 pace.</description>
+    </shoe>
+    <shoe id="4" category="kids" featured="true">
+      <name>Stepzy Junior Dynamo</name>
+      <division>Kids • Playground Active</division>
+      <price currency="USD">69.99</price>
+      <originalPrice currency="USD">85.00</originalPrice>
+      <rating>4.7</rating>
+      <reviewCount>410</reviewCount>
+      <energyReturn>38%</energyReturn>
+      <carbonPlate>Flex-Guard TPU</carbonPlate>
+      <badge type="youth">YOUTH BEST</badge>
+      <image>https://images.unsplash.com/photo-1514989940723-e8e51635b782?auto=format&amp;fit=crop&amp;w=600&amp;q=80</image>
+      <sizes>1Y, 2Y, 3Y, 4Y, 5Y</sizes>
+      <description>Reinforced abrasion toe barrier with easy-cinch elastic lacing for daily playground speed.</description>
+    </shoe>
+  </featuredShoes>
+</stepzyCatalog>
